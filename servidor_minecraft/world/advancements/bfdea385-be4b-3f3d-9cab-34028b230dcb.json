@@ -5158,13 +5158,19 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/ingot/diamond_from_nugget": {
+  "easy_mob_farm:recipes/mob_catcher/void_binding_chain": {
     "criteria": {
-      "has_diamond_nugget": "2025-03-23 00:29:09 +0000"
+      "has_chain": "2025-03-23 00:01:17 +0000"
     },
     "done": true
   },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-03-23 00:16:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
     "criteria": {
       "has_tag_minecraft_wooden_doors": "2025-03-23 00:16:49 +0000"
     },
@@ -5176,15 +5182,9 @@
     },
     "done": true
   },
-  "easy_mob_farm:recipes/mob_catcher/void_binding_chain": {
+  "techreborn:recipes/misc/crafting_table/ingot/diamond_from_nugget": {
     "criteria": {
-      "has_chain": "2025-03-23 00:01:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
-    "criteria": {
-      "has_tag_minecraft_wooden_doors": "2025-03-23 00:16:49 +0000"
+      "has_diamond_nugget": "2025-03-23 00:29:09 +0000"
     },
     "done": true
   },

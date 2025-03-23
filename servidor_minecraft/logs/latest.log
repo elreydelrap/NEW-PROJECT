@@ -620,3 +620,21 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [19:15:38] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
 [19:15:38] [Server thread/INFO]: RazlyBlaze left the game
 [19:15:38] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:19:47] [Server thread/INFO]: elpatomaster[/10.241.83.103:55639] logged in with entity id 3740 at (-3012.509101024271, 145.0398537130788, 128.54446012262702)
+[19:19:47] [Server thread/INFO]: Sending server config values to client
+[19:19:47] [Server thread/INFO]: elpatomaster joined the game
+[19:19:47] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[19:19:49] [Server thread/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[19:19:49] [Server thread/INFO]: Receiving client config
+[19:21:23] [Server thread/INFO]: RazlyBlaze[/10.241.224.213:56022] logged in with entity id 4376 at (-2966.4793688887894, 70.0, 5042.409894375111)
+[19:21:23] [Server thread/INFO]: Sending server config values to client
+[19:21:23] [Server thread/INFO]: RazlyBlaze joined the game
+[19:21:23] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:21:23] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
+[19:21:23] [Server thread/INFO]: Receiving client config
+[19:30:02] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[19:30:02] [Server thread/INFO]: RazlyBlaze left the game
+[19:30:02] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
+[19:30:09] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[19:30:09] [Server thread/INFO]: elpatomaster left the game
+[19:30:09] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf

@@ -614,3 +614,9 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [19:01:27] [Server thread/INFO]: Priority overwritten for player RazlyBlaze. Claiming: GRAVE / Robbing: INVENTORY
 [19:01:27] [Server thread/INFO]: Receiving client config
 [19:01:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[19:10:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2992, y=73, z=5063} class_2338{x=-2993, y=72, z=5064}
+[19:10:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2986, y=71, z=5050} class_2338{x=-2985, y=70, z=5050}
+[19:10:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2979, y=70, z=5033} class_2338{x=-2977, y=69, z=5033}
+[19:15:38] [Server thread/INFO]: RazlyBlaze lost connection: Disconnected
+[19:15:38] [Server thread/INFO]: RazlyBlaze left the game
+[19:15:38] [Server thread/INFO]: Updating all forceload tickets for bfdea385-be4b-3f3d-9cab-34028b230dcb
